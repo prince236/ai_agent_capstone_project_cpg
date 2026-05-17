@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+langchain
+langchain-openai
+langchain_ollama
+langchain-community
+openai
+python-dotenv
+pytest
